@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\bin\Debug\netcoreapp3.1\DelegatesPracties.exe
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\bin\Debug\netcoreapp3.1\DelegatesPracties.deps.json
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\bin\Debug\netcoreapp3.1\DelegatesPracties.runtimeconfig.json
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\bin\Debug\netcoreapp3.1\DelegatesPracties.runtimeconfig.dev.json
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\bin\Debug\netcoreapp3.1\DelegatesPracties.dll
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\bin\Debug\netcoreapp3.1\DelegatesPracties.pdb
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\obj\Debug\netcoreapp3.1\DelegatesPracties.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\obj\Debug\netcoreapp3.1\DelegatesPracties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\obj\Debug\netcoreapp3.1\DelegatesPracties.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\obj\Debug\netcoreapp3.1\DelegatesPracties.AssemblyInfo.cs
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\obj\Debug\netcoreapp3.1\DelegatesPracties.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\obj\Debug\netcoreapp3.1\DelegatesPracties.dll
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\obj\Debug\netcoreapp3.1\DelegatesPracties.pdb
+C:\Users\user\Desktop\C#_Works\DelegatesPracties\DelegatesPracties\obj\Debug\netcoreapp3.1\DelegatesPracties.genruntimeconfig.cache
